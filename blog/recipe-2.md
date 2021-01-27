@@ -1,9 +1,33 @@
 ---
-title: "Recipe 2"
-description: "This is aglio olio recipes"
+title: YAKISOBA
+description: This is aglio olio recipes
+excerpt: YAKISOBA
 date: 2020-10-06
 ---
+![](https://adinugraha.weebly.com/uploads/5/9/2/0/59204569/56586006-6adfd2c255-z_orig.jpg)
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!
+\#Ingredients:
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!
+* 50 gr cabbage
+* 50 gr carrot
+* 50 gr onion
+* Some garlic
+* Meat
+* Noodles
+
+\#Seasoning:
+
+* 1 tbsp oyster sauce
+* 1 tsp soy sauce
+* 1 tsp ketchup
+* 1 tsp honey
+* 1 tsp sugar
+* Salt and pepper
+
+\#Steps:
+
+1. Boil veggies
+2. Stir fry garlic and meat
+3. Prepare noodle with hot water and give some oil
+4. Mix all ingredients
+5. Mix the sauce and done
