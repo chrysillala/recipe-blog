@@ -13,7 +13,16 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss(require('./purgecss.config.js')))
 
 module.exports = {
-  siteName: 'Recipeee',
+  siteName: 'Recipeee',transformers: {
+    remark: {
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+      anchorClassName: 'icon icon-link',
+      plugins: [
+        // ...global plugins
+      ]
+    }
+  },
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -21,8 +30,19 @@ module.exports = {
         path: './blog/**/*.md',
         typeName: 'Post',
         route: '/blog/:title',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
       }
-    }
+    },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        publicPath: `/admin`
+      }
+    },
   ],
   css: {
     loaderOptions: {

@@ -109,3 +109,7 @@ module.exports = {
 
 
 Make sure to restart the gridsome develop command to ensure the changes are compiled in the current build.
+
+### Install netlify cms
+yarn add netlify-cms gridsome-plugin-netlify-cms
+
