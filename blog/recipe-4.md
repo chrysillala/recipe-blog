@@ -1,12 +1,27 @@
 ---
-title: "Recipe 4"
-description: "This is aglio olio recipes"
+title: EASY CHICKEN TERIYAKI (PAN FRIED)
+description: This is aglio olio recipes
+excerpt: EASY CHICKEN TERIYAKI (PAN FRIED)
 date: 2020-10-06
 ---
+\#Ingredients:
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!
+* 1 large chicken thigh (skin on, debone)
+* 1 tsp grated ginger
+* ¼ tsp salt
+* 2 tsp vegetable oil
+* 1 tbsp honey
+* 1 tbsp mirin
+* 1 tbsp sake
+* 1 tbsp soy sauce
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!
+\#Steps:
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, aut. Quaerat corrupti quod, repudiandae est blanditiis quisquam, placeat provident rem quia illo esse illum! Saepe eaque laboriosam veritatis repellat eveniet a assumenda quis consequuntur inventore. Aut deserunt quos ut eius ducimus ipsum eveniet doloribus at pariatur a, accusantium molestias in dolorum et earum natus esse placeat nulla voluptatibus eos! Ullam quia blanditiis eligendi sunt architecto doloremque laborum fugiat reprehenderit nostrum maiores rerum officiis magni optio pariatur quas ipsam inventore eaque velit nisi, repellat possimus! Possimus, distinctio at numquam soluta modi tempora cupiditate rem impedit? Eum necessitatibus aliquid pariatur fuga perferendis!
+1. Rub ginger and salt onto chicken, let it sits for more than 30 minutes, clean and dry, remove any ginger pulp
+2. Heat oil in pan over medium heat
+3. Place skin side down, fry the side until golden brown
+4. Flip the chicken, add 1 tbsp sake, cover the pan with lid and steam the chicken until it’s just cooked through (about 5 minutes)
+5. Prepare teriyaki sauce: mix honey, mirin, sake and soy sauce (1 tbsp each) and stir
+6. Remove the lid, dry oil with paper towel
+7. Turn up the heat to high, pour the sauce. Let it boil while flipping the sauce
+8. And it’s done
