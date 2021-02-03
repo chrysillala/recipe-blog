@@ -1,6 +1,7 @@
 <template>
   <Layout>
     <h1 v-html="$page.post.title" />
+    <g-image :src="$page.post.image" width="500" :alt="$page.post.title"/>
   	<article v-html="$page.post.content" />
   </Layout>
 </template>
@@ -31,6 +32,7 @@ query Post ($path: String!) {
     content
     date (format: "D MMMM YYYY")
     timeToRead
+    image
   }
 }
 </page-query>

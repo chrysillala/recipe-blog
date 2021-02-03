@@ -14,6 +14,7 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss(require(
 
 module.exports = {
   siteName: 'Recipeee',
+  siteDescription: 'The Ultimate Home Cooking Guide',
   transformers: {
     remark: {
       externalLinksTarget: '_blank',

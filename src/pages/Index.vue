@@ -5,14 +5,15 @@
     <!-- <g-image alt="Example image" src="~/favicon.png" width="135" /> -->
     <header class="text-center">
       <h1 class="text-4xl md:text-5xl mb-4 text-blue-700 font-bold uppercase">🍜 Markisak 🍛</h1>
-      <h2 class="text-3xl mb-4">Mari kita masak</h2>
-      <p class="mb-4 text-2xl text-gray-700">
-        The Ultimate Home Cooking Guide
-      </p>
+      <h2 class="text-3xl mb-4" v-text="$page.metadata.siteDescription"></h2>
     </header>
 
     <section class="posts grid row-gap-6">
       <PostList v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node" />
+    </section>
+
+    <section class="mt-8">
+      <p>Total Posts: <span v-text="$page.allPost.totalCount"></span></p>
     </section>
   </Layout>
 </template>
@@ -35,7 +36,7 @@ query {
     siteName
     siteDescription
   }
-  allPost {
+  allPost(filter: { active: { eq: true }}) {
     totalCount
     edges {
       node {

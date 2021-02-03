@@ -28,7 +28,7 @@ query {
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   line-height: 1.5;
-  @apply p-6 m-8 border-dashed border-8 border-blue-300;
+  @apply p-6 border-dashed border-8 border-blue-300;
 }
 
 .layout {

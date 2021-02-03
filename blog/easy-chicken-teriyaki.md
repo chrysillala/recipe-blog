@@ -1,8 +1,11 @@
 ---
-title: EASY CHICKEN TERIYAKI (PAN FRIED)
-description: This is aglio olio recipes
-excerpt: EASY CHICKEN TERIYAKI (PAN FRIED)
+title: Easy Chicken Teriyaki (Pan Fried)
+description: This is easy chicken teriyaki recipes
+excerpt: This is easy chicken teriyaki recipes
 date: 2020-10-06
+image: ""
+recook_from: ""
+active: true
 ---
 \#Ingredients:
 

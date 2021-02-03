@@ -6,7 +6,7 @@
         <h1 v-html ="post.title" class="text-xl font-bold" />
         <p v-html="post.description" class="text-base" />
         <div class="text-sm text-gray-800">
-          <span>{{ post.date }}</span> - <span>{{ post.timeToRead }} minutes</span>
+          <!-- <span>{{ post.date }}</span> - <span>{{ post.timeToRead }} minutes</span> -->
         </div>
       </div>
     </g-link>

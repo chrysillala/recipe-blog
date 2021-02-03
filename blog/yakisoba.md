@@ -1,8 +1,11 @@
 ---
-title: YAKISOBA
-description: This is aglio olio recipes
-excerpt: YAKISOBA
+title: Yakisoba
+description: This is yakisoba recipes
+excerpt: This is yakisoba recipes
 date: 2020-10-06
+image: ""
+recook_from: ""
+active: true
 ---
 ![](https://adinugraha.weebly.com/uploads/5/9/2/0/59204569/56586006-6adfd2c255-z_orig.jpg)
 
